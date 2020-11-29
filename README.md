@@ -2,7 +2,7 @@
 
 ## 📫 Reach me on :  
 
-<img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[https://www.linkedin.com/in/yassine-ait-jeddi-412268160/]" />
+<img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[altimis]" />
 
 ---
 
