@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yassine, junior data scientist, and am looking for new opportunities  
+# Hi there 👋 I'm Yassine, junior data scientist, and am looking for new opportunities  
 
 ## 📫 Reach me on :  
 
