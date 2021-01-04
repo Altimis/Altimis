@@ -8,6 +8,6 @@
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Altimis)
+[comment]: <> (![Github stats](https://github-readme-stats.vercel.app/api?username=Altimis))
 
 ![](https://komarev.com/ghpvc/?username=Altimis)
