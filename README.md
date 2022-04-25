@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yassine, data scientist with two-years professional experience. 
+# Hi there 👋 I'm Yassine, a data scientist with two-years professional experience. 
 
 ## 📫 Reach me on :  
 
